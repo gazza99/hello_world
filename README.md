@@ -1,6 +1,6 @@
 # hello_world
 My first GitHub
-This is line three of the readme 
+This is line three of the readme --GJS was here afterall
 Not sure what the usage is 
 My Name is Gareth Simpson and I'm a frustrated PM who thinks he can still code
 
